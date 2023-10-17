@@ -35,25 +35,3 @@ cd slash
 pip install -r requirements.txt
 python slash.py help
 ```
-
-## Usage & Syntax
-
-* Username Syntax : **python slash.py username**
-* Mail Adress Syntax : **python slash.py mail_adress**
-
-* Example : 
-```
-python slash.py theahmadov
-```
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/theahmadov/slash/main/images/1.png">
-</h1>
-<h1 align="center">
-  <img src="https://github.com/theahmadov/slash/blob/main/images/2.png?raw=true">
-</h1>
-
-### Credits
-Links of social.json : [sherlock-project](https://github.com/sherlock-project/sherlock/)
-
-
-![](https://visitor-badge.glitch.me/badge?page_id=thesaderror.slash)
